@@ -6,7 +6,7 @@ It will generate random password as how much you want.
 ## Technologies Used  
 - HTML  
 - CSS
-- js
+- JS
 
 ## Contact
 - linkedin 🔗 https://www.linkedin.com/in/sabarirajam
